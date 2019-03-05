@@ -1,3 +1,6 @@
 # ignore to-do lists and resources
 TODO.md
 resources/
+
+# ignore node modules
+node_modules/
